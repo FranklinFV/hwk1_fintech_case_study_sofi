@@ -1,6 +1,5 @@
 # **Homework #1** 
 
-![Company_metrics_summary](https://user-images.githubusercontent.com/84001493/122622295-db9d7f00-d05d-11eb-9422-67fcef569f4f.JPG)
 
 
 # FinTech Case Study: SoFi, Inc
