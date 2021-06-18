@@ -1,5 +1,5 @@
 # **Homework #1** 
- ![first_image](Company_metrics_summary.JPG)
+ 
 
 
 # FinTech Case Study: SoFi, Inc
@@ -113,10 +113,13 @@ SoFi aims at building a relationship of trust and reliability through offering f
 This allows SoFi to offer better interest rates in loans and savings and offer better products to the members which creates **SoFi’s competitive advantage: Being a one stop-shop for member-centric financial services and products that keep evolving thanks to the continuous engagement of its members.**
 The products offered are intended to accompany the member throughout his/her entire financial life and satisfy his/her evolving financial needs.SoFi focuses its efforts on increasing customer engagement using newsletter, education, and rewards programs which will lead to additional cross-buy opportunities.
 
-`[SoFi competitive advantage]`  
+![Sofi_competitive_advantage](Sofi_competitive_advantage.JPG)  
 Source: SoFi Investor Presentation - January, 2020  
 
-`[SoFi competitive advantage 2]`  
+SoFi's app is the main hub where all the products and services are located, "the one and only stop" for the user.
+
+
+![Sofi_competitive_advantage2](Sofi_competitive_advantage2.JPG) 
 Source: SoFi Investor Presentation - January, 2020
 
 ` `  
@@ -129,7 +132,7 @@ During the last year and a half, SoFi made sizeable investments in order to enha
 
 * **Acquisition of Galileo:** Galileo is a payment software company that was acquired by SoFi in April 2020 for $1.2 billion (CNBC & Jeffery, 2020). SoFi acquired Galileo with the objective of leveraging Galileo’s current technology and enhancing the products and services offered by Galileo to reach a larger market share by creating more value to each one of Galileo’s customers. According to Anthony Noto (SoFi’s CEO) Galileo’s acquisition is crucial for the mid term goals of SoFi since Galileo’s technology can help accelerate the transition of physical payments and physical financial services to digital (Piper Sandler Companies & Repetto, 2021).
 
-`[Galileo Acquisition]`  
+![Galileo_acquisition](Galileo_acquisition.JPG)     
 Source: SoFi Investor Presentation - January, 2020  
 ` `  
 ` `  
@@ -153,7 +156,7 @@ Since SoFi aims at becoming a one stop solution for financial needs, SoFi 's foo
 * *Omnichannel and branchless banking:* Processes that used to be specific to branches are shifting to various digital channels: Online, social and mobile. The importance of this shift towards a more digital environment for the processes increased due to the pandemic. 
 * *Smart Chip technology:* The addition of chips in credit and debit cards brought an additional layer of security which helped decrease the financial losses due to theft and fraud.
 
-`[Top Fintech trends for 2020]`  
+![Top_fintech_trends](Top_fintech_trends.JPG)    
 Source: Toptal, LLC and Ketbchi, N. (2020). State of Fintech Industry
 
 ` `  
@@ -180,7 +183,7 @@ The aforementioned companies are SoFi’s competitors on the personal finance an
  
  Anthony Noto in SoFi’s investor relations meeting indicated that there are over 500 million bank accounts in the US and of those, 52% are tied to 15 legacy FDIC banks. The remaining 48% is fragmented over smaller banks, credit unions, regional and community banks. Also, over 50% of Americans use more than one bank for financial services. Noto sees a lot of potential for growth in SoFi’s future through providing mobile/digital services to those smaller and more local banks, and capturing more users from the traditional FDIC legacy banks. 
 
-`[Insert Up_for_grabs image]`  
+![Up_for_grabs](Up_for_grabs.JPG)     
 Source: SoFi Investor Presentation - January, 2020
 
 
@@ -210,9 +213,11 @@ SoFi defines and measures each metric as follows:
 
    SoFi’s membership growth rate is accelerated. SoFi has experienced 7 consecutive quarters of YoY (year-over-year) growth and had a 110% YOY increase for the first quarter of 2021.
 
-  `[Insert Sofi membership graph]`  
+ ![Sofi_Membership_growth](Sofi_Membership_growth.JPG)      
   Source: SoFi’s Q1’21 Earnings Presentation
 
+` `  
+` `  
 * **Product Growth in the financial and lending services segments:**
 
    Total products are defined as:
@@ -220,9 +225,11 @@ SoFi defines and measures each metric as follows:
 
   SoFi had a 121% YoY growth in total products for Q1 in 2021 reaching 3.2 millions of total products sold during Q1. Products in the  financial services segment drove the growth with a 273% YoY growth (2.2 million products).
 
-  `[Insert Sofi product graph]`  
+  ![Sofi_Product_growth](Sofi_Product_growth.JPG)  
   Source: SoFi’s Q1’21 Earnings Presentation
 
+` `  
+` `  
 * **Growth in number of Galileo Accounts:**
 
    Galileo is SoFi’s technology platform segment. This metric quantifies
@@ -230,14 +237,19 @@ SoFi defines and measures each metric as follows:
 
    Even though SoFi acquired Galileo, Galileo has a lot of operational independence. The number of accounts increased to 70 million in Q1 of 2021 reaching a 130% YoY growth for that quarter. 
 
-`[Insert Galileo account graph]`  
+ ![Galileo_account_growth](Galileo_account_growth.JPG)   
 Source: SoFi’s Q1’21 Earnings Presentation
 
+` `  
+` `  
 **Company Metrics Summary and Financial Performance by Segment**  
 
-`[Insert Company Metrics Summary]`  
-[Segment Financial]
+ ![Company_metrics_summary](Galileo_account_growth.JPG)    
+ ![Segment_Financials](Segment_Financials.JPG)   
+ Source: SoFi’s Q1’21 Earnings Presentation
 
+` `  
+` `
 **Internal metrics used at SoFi**
 
 SoFi uses additional internal metrics in order to evaluate user engagement on the app:
