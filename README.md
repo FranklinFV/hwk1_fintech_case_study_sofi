@@ -244,7 +244,7 @@ Source: SoFi’s Q1’21 Earnings Presentation
 ` `  
 **Company Metrics Summary and Financial Performance by Segment**  
 
- ![Company_metrics_summary](Galileo_account_growth.JPG)    
+ ![Company_metrics_summary](Company_metrics_summary.JPG)    
  ![Segment_Financials](Segment_Financials.JPG)   
  Source: SoFi’s Q1’21 Earnings Presentation
 
