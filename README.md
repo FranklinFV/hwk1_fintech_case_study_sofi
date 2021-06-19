@@ -304,7 +304,7 @@ SoFi still has a great potential for growth within the personal finance sector o
 
 * Social Finance, Inc. (2021, May 31). *SoFi's Q1'21 Earnings Presentation*. SoFi Events and Presentations. Retrieved June 17, 2021, from [https://s27.q4cdn.com/749715820/files/doc_presentation/Q4_20_Summary_Results.pdf](https://s27.q4cdn.com/749715820/files/doc_presentation/Q4_20_Summary_Results.pdf)
 
-* Time Magazine. (2012, April 02). *Student Loans For a Great Deal, Borrow from Alumni*. Time. Retrieved June 14, 2021, from [Time_mag]:[https://business.time.com/2012/04/02/student-loans-for-a-great-deal-borrow-from-alumni/](https://business.time.com/2012/04/02/student-loans-for-a-great-deal-borrow-from-alumni/)
+* Time Magazine. (2012, April 02). *Student Loans For a Great Deal, Borrow from Alumni*. Time. Retrieved June 14, 2021, from [https://business.time.com/2012/04/02/student-loans-for-a-great-deal-borrow-from-alumni/](https://business.time.com/2012/04/02/student-loans-for-a-great-deal-borrow-from-alumni/)
 
 * Toptal, LLC & Ketabchi, N. (2020). *State of the Fintech Industry (with Infographic)*. Toptal Finance. Retrieved June 17, 2021, from [https://www.toptal.com/finance/market-research-analysts/fintech-landscape](https://www.toptal.com/finance/market-research-analysts/fintech-landscape)
 
