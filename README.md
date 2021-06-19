@@ -12,7 +12,9 @@
 
 
 ---
-![SoFi_logo](https://www.nasfaa.org/uploads/images/Conference_2020/SoFi_new.png)
+
+![SoFi_logo](SoFi_horz_RGB_Turquoise_CircleR_Upward.JPG)
+
 ## **Overview and Origin**
 ### **Date of Incorporation:** May 2021  
 ### **Founders:**
@@ -28,7 +30,7 @@
 ### **SoFi's History:**  
 SOFI, also known as Social Finance, Inc was founded in the year 2011 by Mike Cagney, Dan Macklin, James Finnigan and Ian Brady, who at the time, were graduate students at Stanford School of business. The initial goal was to provide an accessible and affordable funding alternative to students and graduates that have incurred debt to fund their education.
 
-Time magazine (2012) reported that Stanford ran the pilot program to test the idea of this personal finance endeavor in 2011,  40 alumni contributed a total of $2 million dollars as the seed capital for the program. This initial funding was allocated among 85 students attending business graduate school. 
+[Time magazine][Time_mag] (2012) reported that Stanford ran the pilot program to test the idea of this personal finance endeavor in 2011,  40 alumni contributed a total of $2 million dollars as the seed capital for the program. This initial funding was allocated among 85 students attending business graduate school. 
 
 After seeing the success of the pilot program, SoFi extended their lending program nationally in 2012, to a total of 40 universities and an estimated $150 million allocated to student loans. This money was funded by the alumni. SoFi’s used the crowdsourcing lending model which allowed to considerably reduce the administrative fees of a traditional bank and those savings were passed to the customer (Okland, 2021).  In addition, SoFi had a low loan default rate (almost 0%, whereas the national average was 14%) thanks to reducing this risk by pairing students with alumni lenders. This "pairing" strategy gave the students the opportunity to leverage the skills and connections of their respective lenders which at the same time allowed them to better fulfill their loan obligations.
 
@@ -98,8 +100,6 @@ One prominent characteristic in HENRY’s is that even though they earn high inc
 
 ` `  
 ` `  
-
-
 
 ### **Solutions that SoFi offers and its competitive advantage**
 SoFi’s competitive advantage is based on their strategy:
@@ -213,8 +213,8 @@ SoFi defines and measures each metric as follows:
 
    SoFi’s membership growth rate is accelerated. SoFi has experienced 7 consecutive quarters of YoY (year-over-year) growth and had a 110% YOY increase for the first quarter of 2021.
 
- ![Sofi_Membership_growth](Sofi_Membership_growth.JPG)      
-  Source: SoFi’s Q1’21 Earnings Presentation
+  ![Sofi_Membership_growth](Sofi_Membership_growth.JPG)      
+   Source: SoFi’s Q1’21 Earnings Presentation
 
 ` `  
 ` `  
@@ -237,8 +237,8 @@ SoFi defines and measures each metric as follows:
 
    Even though SoFi acquired Galileo, Galileo has a lot of operational independence. The number of accounts increased to 70 million in Q1 of 2021 reaching a 130% YoY growth for that quarter. 
 
- ![Galileo_account_growth](Galileo_account_growth.JPG)   
-Source: SoFi’s Q1’21 Earnings Presentation
+   ![Galileo_account_growth](Galileo_account_growth.JPG)   
+   Source: SoFi’s Q1’21 Earnings Presentation
 
 ` `  
 ` `  
@@ -301,37 +301,38 @@ SoFi still has a great potential for growth within the personal finance sector o
   Financial education is one of the added services that is extremely valuable for the user and also increases user engagement on the app. SoFi could use its infrastructure to analyze SoFi’s products' success in the Latino/Hispanic market and make the adaptations necessary to make them successful in this new market segment  using a more hispanic-centric approach. SoFi will be able to identify the needs of potential new financial products that could lead to a successful expansion later in the Mexican and Latin American markets.
 
 ## **Bibliography and Sources:**
-* CBInsights. (2021, February 10). We Analyzed 18 Of The Fastest-Growing Personal Finance Apps Of All Time To Figure Out The Secrets To Their Success — Here’s What We Learned. Research Briefs. Retrieved June 17, 2021, from https://www.cbinsights.com/research/personal-finance-apps-strategies/  
+* CBInsights. (2021, February 10). *We Analyzed 18 Of The Fastest-Growing Personal Finance Apps Of All Time To Figure Out The Secrets To Their Success — Here’s What We Learned*. Research Briefs. Retrieved June 17, 2021, from [https://www.cbinsights.com/research/personal-finance-apps-strategies/](https://www.cbinsights.com/research/personal-finance-apps-strategies/)
 
-* Claritas, LLC. (2020). The 2020 Hispanic Market Report. Claritas, LLC. https://claritas.com/resources/2020-hispanic-market-report/
+* Claritas, LLC. (2020). *The 2020 Hispanic Market Report*. Claritas, LLC., from [https://claritas.com/resources/2020-hispanic-market-report/](https://claritas.com/resources/2020-hispanic-market-report/)
 
-* CNBC. (2021, May 06). Disruptor 50 2020. CNBC Markets. Retrieved June 17, 2021, from https://www.cnbc.com/2020/06/16/sofi-disruptor-50.html
+* CNBC. (2021, May 06). *Disruptor 50 2020*. CNBC Markets. Retrieved June 17, 2021, from [https://www.cnbc.com/2020/06/16/sofi-disruptor-50.html](https://www.cnbc.com/2020/06/16/sofi-disruptor-50.html)
 
-* CNBC & Jeffery, A. (2020, April 07). SoFi to acquire payment software company Galileo for $1.2 billion. CNBC Finance. Retrieved June 17, 2021, from https://www.cnbc.com/2020/04/07/sofi-to-acquire-payment-software-company-galileo-for-1point2-billion.html
+* CNBC & Jeffery, A. (2020, April 07). *SoFi to acquire payment software company Galileo for $1.2 billion*. CNBC Finance. Retrieved June 17, 2021, from [https://www.cnbc.com/2020/04/07/sofi-to-acquire-payment-software-company-galileo-for-1point2-billion.html](https://www.cnbc.com/2020/04/07/sofi-to-acquire-payment-software-company-galileo-for-1point2-billion.html)
 
-* Craft.co. (2021). SoFi Competitors. SoFi competitors. Retrieved June 17, 2021, from https://craft.co/sofi/competitors
+* Craft.co. (2021). *SoFi Competitors*. SoFi competitors. Retrieved June 17, 2021, from [https://craft.co/sofi/competitors](https://craft.co/sofi/competitors) 
 
-* MarketResearch.com. (2016, June). Marketing Luxury in a Brand New Style for High-Earners-Not-Rich-Yet Consumers. Marketing & Market Research. Retrieved June 17, 2021, from https://www.marketresearch.com/Unity-Marketing-Inc-v642/Luxury-Brand-Style-High-Earners-10122661/
+* MarketResearch.com. (2016, June). *Marketing Luxury in a Brand New Style for High-Earners-Not-Rich-Yet Consumers*. Marketing & Market Research. Retrieved June 17, 2021, from [https://www.marketresearch.com/Unity-Marketing-Inc-v642/Luxury-Brand-Style-High-Earners-10122661/](https://www.marketresearch.com/Unity-Marketing-Inc-v642/Luxury-Brand-Style-High-Earners-10122661/)
 
-* The Motley Fool & Berkowitz, B. (2021, April 10). Is SoFi the Growth Stock for You? The Motley Fool. Retrieved June 17, 2021, from https://www.fool.com/investing/2021/04/10/is-sofi-the-growth-stock-for-you/
+* The Motley Fool & Berkowitz, B. (2021, April 10). *Is SoFi the Growth Stock for You?* The Motley Fool. Retrieved June 17, 2021, from [https://www.fool.com/investing/2021/04/10/is-sofi-the-growth-stock-for-you/](https://www.fool.com/investing/2021/04/10/is-sofi-the-growth-stock-for-you/) 
 
-* Okland, T. (2021, June 10). SoFi Deep Dive: David becomes Goliath. Seeking Alpha. Retrieved June 17, 2021, from https://seekingalpha.com/article/4434163-numerous-catalysts-ahead-for-sofi
+* Okland, T. (2021, June 10). *SoFi Deep Dive: David becomes Goliath*. Seeking Alpha. Retrieved June 17, 2021, from [https://seekingalpha.com/article/4434163-numerous-catalysts-ahead-for-sofi](https://seekingalpha.com/article/4434163-numerous-catalysts-ahead-for-sofi)
 
-* Piper Sandler Companies & Repetto, R. (2021, June 10). Piper Sandler Global Exchange & FinTech Conference [Webcast]. Wall Street Webcasting. Retrieved June 17, 2021, from https://wsw.com/webcast/pipersandler37/sofi/2929923
+ * Piper Sandler Companies & Repetto, R. (2021, June 10). *Piper Sandler Global Exchange & FinTech Conference* [Webcast]. Wall Street Webcasting. Retrieved June 17, 2021, from [https://wsw.com/webcast/pipersandler37/sofi/2929923](https://wsw.com/webcast/pipersandler37/sofi/2929923)
+ 
+* Social Finance, Inc. (2020, October 29). *Investing as a HENRY (High Earner, Not Rich Yet)*. SoFi Learn. Retrieved June 17, 2021, from [https://www.sofi.com/learn/content/high-earner-not-rich-yet/](https://www.sofi.com/learn/content/high-earner-not-rich-yet/)
 
-* Social Finance, Inc. (2020, October 29). Investing as a HENRY (High Earner, Not Rich Yet). SoFi Learn. Retrieved June 17, 2021, from https://www.sofi.com/learn/content/high-earner-not-rich-yet/
+* Social Finance, Inc. (2021). *Disclosures and disclaimers*. SoFi.com. Retrieved June 06, 2021, from [https://www.sofi.com/legal/#recommend-sofi](https://www.sofi.com/legal/#recommend-sofi)
 
-* Social Finance, Inc. (2021). Disclosures and disclaimers. SoFi.com. Retrieved June 06, 2021, from https://www.sofi.com/legal/#recommend-sofi
-Social Finance, Inc. (2021). Refinance Student Loans. SoFi.com. Retrieved June 14, 2021, from https://www.sofi.com/refinance-student-loan/
+* Social Finance, Inc. (2021). *Refinance Student Loans.* SoFi.com. Retrieved June 14, 2021, from [https://www.sofi.com/refinance-student-loan/](https://www.sofi.com/refinance-student-loan/)
 
-* Social Finance, Inc. (2021, January 06). SoFi Investor Presentation. SoFi Investor Relations. Retrieved June 17, 2021, from https://s27.q4cdn.com/749715820/files/doc_presentation/2021/Project-Lightning_PIPE-Investor-Presentation_-SoFi-FINAL-(01.06.2021)2.pdf
+* Social Finance, Inc. (2021, January 06). *SoFi Investors'  Presentation*. SoFi Investor Relations. Retrieved June 17, 2021, from [https://s27.q4cdn.com/749715820/files/doc_presentation/2021/Project-Lightning_PIPE-Investor-Presentation_-SoFi-FINAL-(01.06.2021)2.pdf](https://s27.q4cdn.com/749715820/files/doc_presentation/2021/Project-Lightning_PIPE-Investor-Presentation_-SoFi-FINAL-(01.06.2021)2.pdf)
 
-* Social Finance, Inc. (2021, May 31). SoFi's Q1'21 Earnings Presentation. SoFi Events and Presentations. Retrieved June 17, 2021, from https://s27.q4cdn.com/749715820/files/doc_presentation/Q4_20_Summary_Results.pdf
+* Social Finance, Inc. (2021, May 31). *SoFi's Q1'21 Earnings Presentation*. SoFi Events and Presentations. Retrieved June 17, 2021, from [https://s27.q4cdn.com/749715820/files/doc_presentation/Q4_20_Summary_Results.pdf](https://s27.q4cdn.com/749715820/files/doc_presentation/Q4_20_Summary_Results.pdf)
 
-* Time Magazine. (2012, April 02). Student Loans For a Great Deal, Borrow from Alumni. Time. Retrieved June 14, 2021, from https://business.time.com/2012/04/02/student-loans-for-a-great-deal-borrow-from-alumni/
+* Time Magazine. (2012, April 02). *Student Loans For a Great Deal, Borrow from Alumni*. Time. Retrieved June 14, 2021, from [Time_mag]:[https://business.time.com/2012/04/02/student-loans-for-a-great-deal-borrow-from-alumni/](https://business.time.com/2012/04/02/student-loans-for-a-great-deal-borrow-from-alumni/)
 
-* Toptal, LLC & Ketabchi, N. (2020). State of the Fintech Industry (with Infographic). Toptal Finance. Retrieved June 17, 2021, from https://www.toptal.com/finance/market-research-analysts/fintech-landscape
+* Toptal, LLC & Ketabchi, N. (2020). *State of the Fintech Industry (with Infographic)*. Toptal Finance. Retrieved June 17, 2021, from [https://www.toptal.com/finance/market-research-analysts/fintech-landscape](https://www.toptal.com/finance/market-research-analysts/fintech-landscape)
 
-
+![SoFi_logo](https://www.nasfaa.org/uploads/images/Conference_2020/SoFi_new.png)
 
 
