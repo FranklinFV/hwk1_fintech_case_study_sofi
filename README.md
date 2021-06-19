@@ -243,14 +243,6 @@ SoFi is realtively a smaller player in the personal finance and financial consum
 
 ## **Recommendations**
 
-* If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!)
-
-* Why do you think that offering this product or service would benefit the company?
-
-* What technologies would this additional product or service utilize?
-
-* Why are these technologies appropriate for your solution?
-
 SoFi still has a great potential for growth within the personal finance sector of the FinTech industry. THere are different steps that can be taken in order to increase market share either by capturing more accounts within the HENWS (or HENRY’s) market segment or by increasing the potential market size by increasing the group of users served.
 
 
