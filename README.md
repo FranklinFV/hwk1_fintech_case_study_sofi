@@ -310,4 +310,5 @@ SoFi still has a great potential for growth within the personal finance sector o
 
 ![SoFi_logo](https://www.nasfaa.org/uploads/images/Conference_2020/SoFi_new.png)
 
-
+### FinTech Case Study: SoFi, Inc
+### Author: Franklin Vaca, 06/19/2021
