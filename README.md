@@ -13,7 +13,7 @@
 
 ---
 
-![Sofi_logo](Sofi_logo.JPG)
+![Sofi_logo](Sofi_logo.jpg)
 
 ## **Overview and Origin**
 ### **Date of Incorporation:** May 2021  
@@ -30,16 +30,12 @@
 ### **SoFi's History:**  
 SOFI, also known as Social Finance, Inc was founded in the year 2011 by Mike Cagney, Dan Macklin, James Finnigan and Ian Brady, who at the time, were graduate students at Stanford School of business. The initial goal was to provide an accessible and affordable funding alternative to students and graduates that have incurred debt to fund their education.
 
-[Time magazine][Time_mag] (2012) reported that Stanford ran the pilot program to test the idea of this personal finance endeavor in 2011,  40 alumni contributed a total of $2 million dollars as the seed capital for the program. This initial funding was allocated among 85 students attending business graduate school. 
+Time magazine(2012) reported that Stanford ran the pilot program to test the idea of this personal finance endeavor in 2011,  40 alumni contributed a total of $2 million dollars as the seed capital for the program. This initial funding was allocated among 85 students attending business graduate school. 
 
 After seeing the success of the pilot program, SoFi extended their lending program nationally in 2012, to a total of 40 universities and an estimated $150 million allocated to student loans. This money was funded by the alumni. SoFi’s used the crowdsourcing lending model which allowed to considerably reduce the administrative fees of a traditional bank and those savings were passed to the customer (Okland, 2021).  In addition, SoFi had a low loan default rate (almost 0%, whereas the national average was 14%) thanks to reducing this risk by pairing students with alumni lenders. This "pairing" strategy gave the students the opportunity to leverage the skills and connections of their respective lenders which at the same time allowed them to better fulfill their loan obligations.
 
 SoFi’s innovative strategy attracted different investors from the financial and private sectors, which allowed SoFi to raise $2.4 billion in equity and debt among those investors were: Peter Thiel, Soft Bank, Silver Lake, Third Point and Baseline Ventures. According to CNBC, SoFi’s valuation in May 2020 was $4.8 billion (CNBC, 2021). In April 2021, SoFi agreed to go public and was acquired by a SPAC (a Special Purpose Acquisition Company) led by Chamath Palihapitiya, raised $2.4 billion  and because of this merger SoFi was valued at $8.7 billion. 
 >“The company is projecting adjusted net revenue of $3.7 billion by 2025 and earnings before interest, taxes, depreciation, and amortization (EBITDA) of $1.18 billion (The Motley Fool & Berkowitz, 2021)”.
-
-` `  
-` `  
-
 
 ## **Business Activities:**
 
@@ -86,9 +82,6 @@ The characteristics of SoFi's current product offering hcan be summarized as fol
 * Auto Loan Refinancing - low interest rates and no application fees
 * SoFi Protect - Focused on providing insurance services.
 
-` `  
-` `  
-
 ### **Intended Customer:**
 SoFi is targeting High Earners Not well served (HENWS) with ages over 22 years old and earnings over $100,000 per year. With that in mind, SoFi’s offering is based on a comprehensive suite of financial products and services in one app. SoFi leverages the data from its ecosystem of products across lending, financial services and payments processing to add potential new services or business opportunities to its portfolio.SoFi is also interested in attracted HENRY’s (High Earner Not Yet Rich), which can be grouped into two main categories:
 * Millennials (born between 1980 and 2000) who make between  $100,000 and $200,000 annually
@@ -97,9 +90,6 @@ SoFi is targeting High Earners Not well served (HENWS) with ages over 22 years o
 One prominent characteristic in HENRY’s is that even though they earn high incomes they spend a good portion of it and have a small portion allocated to savings or income-producing investments (Social Finance, Inc, 2020). HENRY’s are usually defined as millennials, but there are also Gen X and Baby Boomers that fall within this category. 
 > MarketResearch.com in 2016 estimated that 27 million US households belong to the HENRY's market segment.
 
-
-` `  
-` `  
 
 ### **Solutions that SoFi offers and its competitive advantage**
 SoFi’s competitive advantage is based on their strategy:
@@ -121,9 +111,7 @@ SoFi's app is the main hub where all the products and services are located, "the
 
 ![Sofi_competitive_advantage2](Sofi_competitive_advantage2.JPG) 
 Source: SoFi Investor Presentation - January, 2020
-
-` `  
-` `  
+  
 ### **Technology:**
 SoFi uses different types of technologies for each one of their products. Mobile banking is the main component for SoFi money. Additionally, SoFi uses API technologies to integrate its SoFi relay services. Artificial intelligence and machine learning are also part of SoFi’s set of tools in order to predict and customize the user experience in their app. 
 
@@ -134,8 +122,7 @@ During the last year and a half, SoFi made sizeable investments in order to enha
 
 ![Galileo_acquisition](Galileo_acquisition.JPG)     
 Source: SoFi Investor Presentation - January, 2020  
-` `  
-` `  
+
 ## **Landscape:**
 ### **FinTech domains:** 
 Since SoFi aims at becoming a one stop solution for financial needs, SoFi 's footprint extends to  many FinTech domains: 
@@ -143,9 +130,7 @@ Since SoFi aims at becoming a one stop solution for financial needs, SoFi 's foo
 * Online Banking and Personal Finance/Deposits/Online
 * Insurance
 * Investment Management and robo-advising
-
-` `  
-` `  
+ 
 ### **Major trends in the personal finance and banking domains over the last 10 years:** 
 * *Open/challenger banking* - Fintech companies are challenging the status quo of the traditional banking system. Various fintech companies have developed platforms that allow financial institutions to connect to the broader API (Application programming interface) ecosystem which facilitates and speeds up transactions, while reducing costs at the same time.
 * *Artificial intelligence (AI) and machine learning-powered (ML) platforms to manage core business processes*. The use of AI and ML technologies allow to read and analyze data and provide insights that support the decision-making process and or detect anomalies. These processes are usually characterized as data and paper intensive in the traditional setting. 
@@ -159,8 +144,6 @@ Since SoFi aims at becoming a one stop solution for financial needs, SoFi 's foo
 ![Top_fintech_trends](Top_fintech_trends.JPG)    
 Source: Toptal, LLC and Ketbchi, N. (2020). State of Fintech Industry
 
-` `  
-` `  
 ### **Competition** 
 SoFi's lending segment is one of the largest and most profitable for SoFi. The major competitors in the personal finance and consumer loans space (Toptal, LLC & Ketabchi, 2020) and (Craft. co, 2021)are:
 
@@ -216,8 +199,6 @@ SoFi defines and measures each metric as follows:
   ![Sofi_Membership_growth](Sofi_Membership_growth.JPG)      
    Source: SoFi’s Q1’21 Earnings Presentation
 
-` `  
-` `  
 * **Product Growth in the financial and lending services segments:**
 
    Total products are defined as:
@@ -228,8 +209,6 @@ SoFi defines and measures each metric as follows:
   ![Sofi_Product_growth](Sofi_Product_growth.JPG)  
   Source: SoFi’s Q1’21 Earnings Presentation
 
-` `  
-` `  
 * **Growth in number of Galileo Accounts:**
 
    Galileo is SoFi’s technology platform segment. This metric quantifies
@@ -240,16 +219,12 @@ SoFi defines and measures each metric as follows:
    ![Galileo_account_growth](Galileo_account_growth.JPG)   
    Source: SoFi’s Q1’21 Earnings Presentation
 
-` `  
-` `  
 **Company Metrics Summary and Financial Performance by Segment**  
 
  ![Company_metrics_summary](Company_metrics_summary.JPG)    
  ![Segment_Financials](Segment_Financials.JPG)   
  Source: SoFi’s Q1’21 Earnings Presentation
 
-` `  
-` `
 **Internal metrics used at SoFi**
 
 SoFi uses additional internal metrics in order to evaluate user engagement on the app:
