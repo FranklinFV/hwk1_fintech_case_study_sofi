@@ -71,7 +71,7 @@ SoFi’s products are grouped in 3 different segments:
 * Technology Platform Segment:
   * Galileo Accounts (excluding SoFi’s accounts)
 
-The characteristics of SoFi's current product offering hcan be summarized as follows:
+The characteristics of SoFi's current product offering can be summarized as follows:
 * SoFi Money – Cash management account that earns interests and no-account fees.
 * SoFi Invest – Online investing in Stocks (whole and partial shares), ETFs and cryptocurrency with no commissions and reduced fees.
 * Personal Loans – Low fixed personal loan rates without fees for up to $100,000 with unemployment protection.
