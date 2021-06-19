@@ -13,7 +13,7 @@
 
 ---
 
-![SoFi_logo](SoFi_horz_RGB_Turquoise_CircleR_Upward.JPG)
+![Sofi_logo](Sofi_logo.JPG)
 
 ## **Overview and Origin**
 ### **Date of Incorporation:** May 2021  
